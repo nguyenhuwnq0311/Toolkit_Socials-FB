@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+
+data/browser_profile/
+data/*.db
+
+reports/*.csv
+reports/*.json
+reports/*.log
